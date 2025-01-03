@@ -1,5 +1,11 @@
-## Hi there 👋
+## ⚙️ Tech Stack
 
+- **Languages:** Swift, Kotlin, Java, Objective-C, Python  
+- **Frameworks:** SwiftUI, UIKit, Jetpack Compose, FFmpeg  
+- **Cloud Services:** AWS (preferred), Firebase (occasional)  
+- **Tooling:** Xcode, Android Studio, Git  
+
+When I’m not coding, you’ll find me diving into the world of audio/video tech and FFmpeg 🎵📚 
 <!--
 **kunj2707/kunj2707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
