@@ -1,3 +1,5 @@
+**Hi 💬**
+
 ## ⚙️ Tech Stack
 
 - **Languages:** Swift, Kotlin, Java, Objective-C, Python  
